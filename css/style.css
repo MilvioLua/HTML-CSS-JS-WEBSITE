@@ -1,4 +1,9 @@
 @charset "UTF-8";
+img {
+
+
+}
+
 .container {
 	background-color: #FFFFFF;
 	width: 90%;
@@ -191,6 +196,8 @@
 */
 	padding-bottom: 30px;
 	height: 100%;
+	margin-left: -15px;
+	border-radius: 300px 0px 300px 0px; 
 }
 .left_half {
 	background-color: #52BAD5;
